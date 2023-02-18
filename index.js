@@ -12,6 +12,16 @@ app.get('/freshers', (req, res) => {
     res.send(freshers);
 })
 
+
+const experiences = require('./data/Experiences.json')
+app.get('/experiences', (req, res) => {
+
+    res.send(experiences);
+})
+
+
+
+
 app.get('/',(req,res)=>{
     res.send('simple node server side')
 });

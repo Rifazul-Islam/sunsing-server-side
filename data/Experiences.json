@@ -1,0 +1,26 @@
+[
+    { 
+        "id":"01",
+        "description":"As a Software Engineer, you will be responsible for designing, developing, and testing software applications ",
+        "name":"Software Engineer",
+        "location":"Redmond, WA",
+        "company":"Microsoft"
+
+    },
+    { 
+        "id":"02",
+        "description":"As a UX Designer, you will be responsible for designing the user experience for digital products such as websites, mobile apps, and software",
+        "name":" UX Designer",
+        "location":"Seattle, WA",
+        "company":"Amazon"
+
+    },
+    { 
+        "id":"03",
+        "description":"As a Cybersecurity Analyst, you will be responsible for protecting company data from cyber attacks. You will work with other members",
+        "name":"Cybersecurity Analyst",
+        "location":"Washington, D.C.",
+        "company":"Deloitte"
+
+    }
+]
