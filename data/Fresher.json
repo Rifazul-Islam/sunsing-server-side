@@ -1,0 +1,26 @@
+[
+    { 
+        "id":"01",
+        "description":"This discipline has become more complex in recent years, with end users now accessing websites on screens ",
+        "name":"Front-end web developer",
+        "location":"Dhaka",
+        "company":"Dhansiri Communication Limited"
+
+    },
+    { 
+        "id":"02",
+        "description":"Data scientists collect, analyze and interpret large amounts of data using advanced analytics technologies ",
+        "name":"Data scientist",
+        "location":" india",
+        "company":"Leads4needs"
+
+    },
+    { 
+        "id":"03",
+        "description":"As an AI Specialist, you will be responsible for designing and implementing AI solutions for a variety of industries and applications",
+        "name":"Artificial intelligence specialist",
+        "location":"india",
+        "company":"payrasoft"
+
+    }
+]
