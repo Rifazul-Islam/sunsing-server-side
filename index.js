@@ -20,6 +20,13 @@ app.get('/experiences', (req, res) => {
 })
 
 
+const compnies = require('./data/Companies.json')
+app.get('/compnies', (req, res) => {
+
+    res.send(compnies);
+})
+
+
 
 
 app.get('/',(req,res)=>{

@@ -1,0 +1,20 @@
+[
+    { 
+        "id":"01",
+        "company":"Grameenphone IT",
+        "description":"Grameenphone IT is the technology arm of Grameenphone, the largest mobile phone operator in Bangladesh. The company provides a wide range of IT services, including software development, system integration, and network services"
+        
+    },
+    { 
+        "id":"02",
+        "description":"DataSoft is a leading software company in Bangladesh that provides a wide range of IT services, including software development, digital transformation, and AI solutions",
+        "company":"DataSoft Systems Bangladesh Limited"
+
+    },
+    { 
+        "id":"03",
+        "description":"LEADS is an IT consulting and software development company that provides a wide range of services, including IT consulting, custom software development, and mobile app development",
+        "company":"LEADS Corporation Limited"
+
+    }
+]
